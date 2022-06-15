@@ -1,1 +1,5 @@
 /dist
+/.venv
+/.vscode
+/.pytest_cache
+/src/phype.egg-info
